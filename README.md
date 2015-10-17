@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/JohnCashmore/hubot-buddy-the-elf.svg)](https://travis-ci.org/JohnCashmore/hubot-buddy-the-elf)
 # Hubot: Buddy the Elf
 
 Christmas cheer for all the hear
